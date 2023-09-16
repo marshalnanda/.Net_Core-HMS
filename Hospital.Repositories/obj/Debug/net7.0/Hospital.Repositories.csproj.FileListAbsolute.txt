@@ -1,0 +1,14 @@
+C:\Users\nikmar\Source\Repos\.Net_Core-HMS\Hospital.Repositories\bin\Debug\net7.0\Hospital.Repositories.deps.json
+C:\Users\nikmar\Source\Repos\.Net_Core-HMS\Hospital.Repositories\bin\Debug\net7.0\Hospital.Repositories.runtimeconfig.json
+C:\Users\nikmar\source\repos\.Net_Core-HMS\Hospital.Repositories\bin\Debug\net7.0\Hospital.Repositories.dll
+C:\Users\nikmar\source\repos\.Net_Core-HMS\Hospital.Repositories\bin\Debug\net7.0\Hospital.Repositories.pdb
+C:\Users\nikmar\source\repos\.Net_Core-HMS\Hospital.Repositories\obj\Debug\net7.0\Hospital.Repositories.csproj.AssemblyReference.cache
+C:\Users\nikmar\source\repos\.Net_Core-HMS\Hospital.Repositories\obj\Debug\net7.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikmar\source\repos\.Net_Core-HMS\Hospital.Repositories\obj\Debug\net7.0\Hospital.Repositories.AssemblyInfoInputs.cache
+C:\Users\nikmar\source\repos\.Net_Core-HMS\Hospital.Repositories\obj\Debug\net7.0\Hospital.Repositories.AssemblyInfo.cs
+C:\Users\nikmar\source\repos\.Net_Core-HMS\Hospital.Repositories\obj\Debug\net7.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\nikmar\source\repos\.Net_Core-HMS\Hospital.Repositories\obj\Debug\net7.0\Hospital.Repositories.dll
+C:\Users\nikmar\source\repos\.Net_Core-HMS\Hospital.Repositories\obj\Debug\net7.0\refint\Hospital.Repositories.dll
+C:\Users\nikmar\source\repos\.Net_Core-HMS\Hospital.Repositories\obj\Debug\net7.0\Hospital.Repositories.pdb
+C:\Users\nikmar\Source\Repos\.Net_Core-HMS\Hospital.Repositories\obj\Debug\net7.0\Hospital.Repositories.genruntimeconfig.cache
+C:\Users\nikmar\Source\Repos\.Net_Core-HMS\Hospital.Repositories\obj\Debug\net7.0\ref\Hospital.Repositories.dll

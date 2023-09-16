@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS.Web", "HMS.Web\HMS.Web.csproj", "{B73883E2-DA0C-4E68-B062-FFDF22060AF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HMS.Web", "HMS.Web\HMS.Web.csproj", "{B73883E2-DA0C-4E68-B062-FFDF22060AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Models", "Hospital.Models\Hospital.Models.csproj", "{B3EC2884-C961-418B-90BE-59B15D198394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.ViewModels", "Hospital.ViewModels\Hospital.ViewModels.csproj", "{75996505-040D-41FA-93AC-6474D007FACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Repositories", "Hospital.Repositories\Hospital.Repositories.csproj", "{27BC215D-2B40-462C-8C87-C9AC5C15930B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Services", "Hospital.Services\Hospital.Services.csproj", "{11D7CAFF-F5DF-4180-9D8E-8051F4B3A359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Utilities", "Hospital.Utilities\Hospital.Utilities.csproj", "{B2D9B11D-314C-4FD6-BDED-F12B59D2F181}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{B73883E2-DA0C-4E68-B062-FFDF22060AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B73883E2-DA0C-4E68-B062-FFDF22060AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B73883E2-DA0C-4E68-B062-FFDF22060AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3EC2884-C961-418B-90BE-59B15D198394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EC2884-C961-418B-90BE-59B15D198394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EC2884-C961-418B-90BE-59B15D198394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EC2884-C961-418B-90BE-59B15D198394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75996505-040D-41FA-93AC-6474D007FACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75996505-040D-41FA-93AC-6474D007FACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75996505-040D-41FA-93AC-6474D007FACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75996505-040D-41FA-93AC-6474D007FACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27BC215D-2B40-462C-8C87-C9AC5C15930B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BC215D-2B40-462C-8C87-C9AC5C15930B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BC215D-2B40-462C-8C87-C9AC5C15930B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BC215D-2B40-462C-8C87-C9AC5C15930B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D7CAFF-F5DF-4180-9D8E-8051F4B3A359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D7CAFF-F5DF-4180-9D8E-8051F4B3A359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D7CAFF-F5DF-4180-9D8E-8051F4B3A359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D7CAFF-F5DF-4180-9D8E-8051F4B3A359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D9B11D-314C-4FD6-BDED-F12B59D2F181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D9B11D-314C-4FD6-BDED-F12B59D2F181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D9B11D-314C-4FD6-BDED-F12B59D2F181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D9B11D-314C-4FD6-BDED-F12B59D2F181}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
